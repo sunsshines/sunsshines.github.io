@@ -1,0 +1,38 @@
+{
+  "username": "appbestcartoon",
+  "new_username": "appbestcartoon/glitter",
+  "section_mode": true,
+  "album": [
+    "glitter"
+  ],
+  "init_jumlah_photo": 100,
+  "admob_banner_id": "ca-app-pub-3131662528669863/2624679780",
+  "admob_interstitial_id": "ca-app-pub-3131662528669863/4269175195",
+  "admob_native_id": "ca-app-pub-3131662528669863/3772441627",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "ca-app-pub-3131662528669863/1643011853",
+
+  "admob_hpk_1": "sticth",
+  "admob_hpk_2": "fashion",
+  "admob_hpk_3": "blue koala",
+  "admob_hpk_4": "luxury car",
+  "admob_hpk_5": "insurance",
+
+  "startapp_app_id": "",
+
+  "interstitial_inverval": 5,
+
+  "list_ads": [
+    "ADMOB",
+    "APPLOVIN",
+    "UNITY"
+  ],
+
+  "unity_id": "",
+  "unity_banner": "",
+  "unity_interstitial": "",
+
+  "applovin_sdk_key": "",
+  "applovin_banner_id":"",
+  "applovin_inter_id":""
+}
