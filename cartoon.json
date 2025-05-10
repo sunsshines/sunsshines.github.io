@@ -3,9 +3,9 @@
   "new_username": "appbestcartoon/cartoons",
   "section_mode": true,
   "album": [
-    "cartoon"
+    "cartoons"
   ],
-  "init_jumlah_photo": 100,
+  "init_jumlah_photo": 50,
   "admob_banner_id": "ca-app-pub-3131662528669863/3474727025",
   "admob_interstitial_id": "ca-app-pub-3131662528669863/6201203968",
   "admob_native_id": "ca-app-pub-3131662528669863/4888122296",
