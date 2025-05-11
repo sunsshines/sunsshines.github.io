@@ -1,0 +1,38 @@
+{
+  "username": "appbestcartoon",
+  "new_username": "appbestcartoon/pinkbear",
+  "section_mode": true,
+  "album": [
+    "pinkbear"
+  ],
+  "init_jumlah_photo": 50,
+  "admob_banner_id": "ca-app-pub-3131662528669863/6324299378",
+  "admob_interstitial_id": "ca-app-pub-3131662528669863/4172778757",
+  "admob_native_id": "ca-app-pub-3131662528669863/5011217702",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "ca-app-pub-3131662528669863/3698136037",
+
+  "admob_hpk_1": "sticth",
+  "admob_hpk_2": "fashion",
+  "admob_hpk_3": "blue koala",
+  "admob_hpk_4": "luxury car",
+  "admob_hpk_5": "insurance",
+
+  "startapp_app_id": "",
+
+  "interstitial_inverval": 5,
+
+  "list_ads": [
+    "ADMOB",
+    "APPLOVIN",
+    "UNITY"
+  ],
+
+  "unity_id": "",
+  "unity_banner": "",
+  "unity_interstitial": "",
+
+  "applovin_sdk_key": "",
+  "applovin_banner_id":"",
+  "applovin_inter_id":""
+}
