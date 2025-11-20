@@ -5,34 +5,28 @@
   "album": [
     "sunflower"
   ],
-  "init_jumlah_photo": 500,
+  "init_jumlah_photo": 50,
   "admob_banner_id": "ca-app-pub-3131662528669863/2453530641",
   "admob_interstitial_id": "ca-app-pub-3131662528669863/2597000879",
   "admob_native_id": "ca-app-pub-3131662528669863/6207033275",
   "admob_rewarded_interstitial_id": "",
   "admob_open_app_id": "ca-app-pub-3131662528669863/4228812595",
 
-  "admob_hpk_1": "sticth",
-  "admob_hpk_2": "fashion",
-  "admob_hpk_3": "blue koala",
-  "admob_hpk_4": "luxury car",
-  "admob_hpk_5": "insurance",
+  "admob_hpk_1": "purple",
+  "admob_hpk_2": "bts",
+  "admob_hpk_3": "kpop",
+  "admob_hpk_4": "insurance",
+  "admob_hpk_5": "bank jago",
 
   "startapp_app_id": "",
 
   "interstitial_inverval": 5,
 
   "list_ads": [
-    "ADMOB",
-    "APPLOVIN",
-    "UNITY"
+    "ADMOB"
   ],
 
   "unity_id": "",
   "unity_banner": "",
-  "unity_interstitial": "",
-
-  "applovin_sdk_key": "",
-  "applovin_banner_id":"",
-  "applovin_inter_id":""
+  "unity_interstitial": ""
 }
