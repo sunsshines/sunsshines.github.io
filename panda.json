@@ -5,34 +5,28 @@
   "album": [
     "panda"
   ],
-  "init_jumlah_photo": 600,
-  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
-  "admob_rewarded_interstitial_id": "ca-app-pub-3940256099942544/5354046379",
-  "admob_open_app_id": "ca-app-pub-3940256099942544/3419835294"
+  "init_jumlah_photo": 100,
+  "admob_banner_id": "ca-app-pub-3131662528669863/4197857154",
+  "admob_interstitial_id": "ca-app-pub-3131662528669863/8806944751",
+  "admob_native_id": "ca-app-pub-3131662528669863/7493863082",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "ca-app-pub-3131662528669863/9848563688",
 
-  "admob_hpk_1": "sticth",
-  "admob_hpk_2": "fashion",
-  "admob_hpk_3": "blue koala",
-  "admob_hpk_4": "luxury car",
-  "admob_hpk_5": "insurance",
+  "admob_hpk_1": "purple",
+  "admob_hpk_2": "bts",
+  "admob_hpk_3": "kpop",
+  "admob_hpk_4": "insurance",
+  "admob_hpk_5": "bank jago",
 
   "startapp_app_id": "",
 
   "interstitial_inverval": 5,
 
   "list_ads": [
-    "ADMOB",
-    "APPLOVIN",
-    "UNITY"
+    "ADMOB"
   ],
 
   "unity_id": "",
   "unity_banner": "",
-  "unity_interstitial": "",
-
-  "applovin_sdk_key": "",
-  "applovin_banner_id":"",
-  "applovin_inter_id":""
+  "unity_interstitial": ""
 }
