@@ -1,16 +1,16 @@
 {
   "username": "appbestcartoon",
-  "new_username": "appbestcartoon/rose",
+  "new_username": "appbestcartoon/cuteanimal",
   "section_mode": true,
   "album": [
-    "rose"
+    "cuteanimal"
   ],
   "init_jumlah_photo": 100,
-  "admob_banner_id": "ca-app-pub-3131662528669863/4389428844",
-  "admob_interstitial_id": "ca-app-pub-3131662528669863/5733465957",
-  "admob_native_id": "ca-app-pub-3131662528669863/9481139270",
+  "admob_banner_id": "ca-app-pub-3131662528669863/1970073665",
+  "admob_interstitial_id": "ca-app-pub-3131662528669863/3554618074",
+  "admob_native_id": "ca-app-pub-3131662528669863/4510808225",
   "admob_rewarded_interstitial_id": "",
-  "admob_open_app_id": "ca-app-pub-3131662528669863/8168057602",
+  "admob_open_app_id": "ca-app-pub-3131662528669863/9952505467",
 
   "admob_hpk_1": "purple",
   "admob_hpk_2": "bts",
